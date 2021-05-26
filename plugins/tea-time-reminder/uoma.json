@@ -5,7 +5,7 @@
     "foreground": true,
     "background": true,
     "permissions": [
-        "clock/timezone",
-        "global/notification"
+        "clock/timezone:read",
+        "global/notification:write"
     ]
 }
