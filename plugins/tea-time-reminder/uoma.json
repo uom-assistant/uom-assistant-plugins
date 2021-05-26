@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "type": "local",
+    "dist": "/",
     "foreground": true,
     "background": true,
     "permissions": [

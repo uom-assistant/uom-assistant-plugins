@@ -1,6 +1,7 @@
 {
     "version": "20210526",
     "type": "local",
+    "dist": "/",
     "foreground": true,
     "background": false,
     "permissions": []
