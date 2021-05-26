@@ -2,8 +2,8 @@
     "version": 1,
     "plugins": [
         {
-            "name": "Course Data Importer",
-            "description": "Import course data to your UoM Assistant with one click. Data from volunteers.",
+            "name": "Course Info Importer",
+            "description": "Import course info to your UoM Assistant with one click. Data from volunteers.",
             "id": "course-data-importer",
             "author": "Axton, Derek and Contributors",
             "author_url": "https://github.com/yrccondor/uom-assistant",
