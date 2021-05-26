@@ -4,7 +4,7 @@
         {
             "name": "Course Data Importer",
             "description": "Import course data to your UoM Assistant with one click. Data from volunteers.",
-            "path": "course-data-importer",
+            "id": "course-data-importer",
             "author": "Axton, Derek and Contributors",
             "author_url": "https://github.com/yrccondor/uom-assistant",
             "verified": true,
@@ -13,7 +13,7 @@
         {
             "name": "Tea Time Reminder",
             "description": "Remind you for the Cantonese tea time on 3 p.m. everyday, stop working and relax yourself with some tea!",
-            "path": "tea-time-reminder",
+            "id": "tea-time-reminder",
             "author": "Derek",
             "author_url": "https://github.com/GrayNekoBean",
             "verified": true,

@@ -3,7 +3,7 @@
     "type": "local",
     "dist": "/",
     "foreground": true,
-    "background": true,
+    "background": [],
     "permissions": [
         "clock/timezone:read",
         "global/notification:write"

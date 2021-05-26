@@ -3,6 +3,9 @@
     "type": "local",
     "dist": "/",
     "foreground": true,
-    "background": false,
-    "permissions": []
+    "background": [],
+    "permissions": [
+        "course/list:read",
+        "course/list:write"
+    ]
 }
