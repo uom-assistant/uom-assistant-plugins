@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "type": "local",
+    "foreground": true,
+    "background": true,
+    "permissions": [
+        "clock/timezone",
+        "global/notification"
+    ]
+}
