@@ -5,8 +5,6 @@
             "name": "Course Info Importer",
             "description": "Import course info to your UoM Assistant with one click. Data from volunteers.",
             "id": "course-data-importer",
-            "author": "Axton, Derek and Contributors",
-            "author_url": "https://github.com/yrccondor/uom-assistant",
             "verified": true,
             "verified_message": "UoM Assistant official plug-in"
         },
@@ -14,8 +12,6 @@
             "name": "Tea Time Reminder",
             "description": "Remind you for the Cantonese tea time on 3 p.m. everyday, stop working and relax yourself with some tea!",
             "id": "tea-time-reminder",
-            "author": "Derek",
-            "author_url": "https://github.com/GrayNekoBean",
             "verified": true,
             "verified_message": "Verified demo plug-in"
         }

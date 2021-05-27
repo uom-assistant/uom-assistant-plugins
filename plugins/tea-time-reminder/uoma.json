@@ -1,5 +1,7 @@
 {
     "version": "1.0.0",
+    "author": "Derek",
+    "author_url": "https://github.com/GrayNekoBean",
     "type": "local",
     "dist": "/",
     "foreground": true,

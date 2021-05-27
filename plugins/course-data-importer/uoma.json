@@ -1,5 +1,7 @@
 {
     "version": "20210526",
+    "author": "Axton, Derek and Contributors",
+    "author_url": "https://github.com/yrccondor/uom-assistant",
     "type": "local",
     "dist": "/",
     "foreground": true,
