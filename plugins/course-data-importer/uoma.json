@@ -9,5 +9,7 @@
     "permissions": [
         "course/list:read",
         "course/list:write"
-    ]
+    ],
+    "privacy_policy": "",
+    "plugin_homepage": ""
 }
