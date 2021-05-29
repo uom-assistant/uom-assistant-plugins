@@ -14,6 +14,13 @@
             "id": "tea-time-reminder",
             "verified": true,
             "verified_message": "Verified demo plug-in"
+        },
+        {
+            "name": "AGTranslate",
+            "description": "A small, smart, exquisite, fast and elegant web translation applet.",
+            "id": "agtranslate",
+            "verified": false,
+            "verified_message": ""
         }
     ]
 }
