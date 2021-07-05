@@ -21,6 +21,13 @@
             "id": "agtranslate",
             "verified": false,
             "verified_message": ""
+        },
+        {
+            "name": "My Manchester News",
+            "description": "News, information, and events for your student life.",
+            "id": "studentnews",
+            "verified": true,
+            "verified_message": "UoM Assistant official plug-in"
         }
     ]
 }

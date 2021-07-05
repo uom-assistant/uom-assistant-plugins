@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "author": "Axton",
+    "author_url": "https://github.com/uom-assistant/uoma-plugin-studentnews",
+    "type": "local",
+    "dist": "/",
+    "foreground": true,
+    "background": [],
+    "permissions": [],
+    "privacy_policy": "",
+    "plugin_homepage": "https://studentnews.manchester.ac.uk/"
+}
