@@ -28,6 +28,13 @@
             "id": "studentnews",
             "verified": true,
             "verified_message": "UoM Assistant official plug-in"
+        },
+        {
+            "name": "Manchester Weather",
+            "description": "Get known of the weather and integrate weather forecast into your calendar.",
+            "id": "weather",
+            "verified": true,
+            "verified_message": "UoM Assistant official plug-in"
         }
     ]
 }

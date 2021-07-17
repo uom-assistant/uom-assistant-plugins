@@ -1,0 +1,20 @@
+{
+    "version": "0.1.0",
+    "author": "Axton",
+    "author_url": "https://github.com/uom-assistant/uoma-plugin-manchester-weather",
+    "type": "local",
+    "dist": "/",
+    "foreground": true,
+    "background": ["background.js"],
+    "permissions": [
+        "global/language:read",
+        "global/theme:read",
+        "global/notification:write",
+        "coursework/list:read",
+        "coursework/list:write",
+        "calendar/events:read",
+        "calendar/events:write"
+    ],
+    "privacy_policy": "",
+    "plugin_homepage": ""
+}
