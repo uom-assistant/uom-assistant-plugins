@@ -2,8 +2,8 @@
     "author": "RyanXin",
     "author_url": "https://www.ryanxin.cn/",
     "type": "remote",
-    "entry": "http://translate.ryanxin.cn/?auth=uoma1600194040315367971",
-    "scope": ["http://translate.ryanxin.cn"],
+    "entry": "https://translate.ryanxin.cn/?auth=uoma1600194040315367971",
+    "scope": ["https://translate.ryanxin.cn"],
     "privacy_policy": "",
     "plugin_homepage": "https://www.ryanxin.cn/archives/648"
 }
