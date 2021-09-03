@@ -10,8 +10,8 @@
         "global/language:read",
         "global/theme:read",
         "global/notification:write",
-        "event/list:read",
-        "event/list:write",
+        "task/list:read",
+        "task/list:write",
         "calendar/events:read",
         "calendar/events:write"
     ],
