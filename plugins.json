@@ -35,6 +35,13 @@
             "id": "weather",
             "verified": true,
             "verified_message": "UoM Assistant official plug-in"
+        },
+        {
+            "name": "UoM Service Availability",
+            "description": "Get known of what's happening on uni-services.",
+            "id": "service-availability",
+            "verified": true,
+            "verified_message": "UoM Assistant official plug-in"
         }
     ]
 }
