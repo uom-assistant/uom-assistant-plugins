@@ -1,5 +1,6 @@
 {
     "version": 1,
+    "origin": "https://plugin.uoma.axton.im",
     "plugins": [
         {
             "name": "Course Info Importer",
